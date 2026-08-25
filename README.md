@@ -7,7 +7,7 @@ My main technologies for UI/UX design are Figma, enhanced by Photoshop. I love J
 - 🔭 &nbsp; I am currently studying as a student at Universitas Teuku Umar.  
 - 🌱 &nbsp; I am also currently participating in a 6-month intensive training in a leading program in Indonesia, Asah led by Dicoding supported by GoTo, on the AI Full-Stack Developer learning path.
 - 🤝 &nbsp; I enjoy communicating with anyone and am open to collaboration, so please don't hesitate to reach out to me.  
-- 📫 &nbsp; How to reach me: amandamahendra0@gmail.com
+- 📫 &nbsp; How to reach me: mahendraamanda0@gmail.com
 - ☕ &nbsp; Fun fact: Powered by caffeine
 
 ### Tech Stack & Tools
@@ -38,5 +38,5 @@ My main technologies for UI/UX design are Figma, enhanced by Photoshop. I love J
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/amandamahendra/">LinkedIn</a>
-- amandamahendra0@gmail.com
+- mahendraamanda0@gmail.com
 - <a href="https://www.instagram.com/a.mahendraid">Instagram</a>
