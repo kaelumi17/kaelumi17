@@ -8,7 +8,7 @@ My main technologies for UI/UX design are Figma, enhanced by Photoshop. I love J
 - 🌱 &nbsp; I am also currently participating in a 6-month intensive training in a leading program in Indonesia, Asah led by Dicoding supported by GoTo, on the AI Full-Stack Developer learning path.
 - 🤝 &nbsp; I enjoy communicating with anyone and am open to collaboration, so please don't hesitate to reach out to me.  
 - 📫 &nbsp; How to reach me: amandamahendra0@gmail.com
-- ☕ &nbsp; Fun fact: Can't work without coffee
+- ☕ &nbsp; Fun fact: Powered by caffeine
 
 ### Tech Stack & Tools
 **UI/UX Design:**  
