@@ -1,4 +1,6 @@
-### Hi! I'm Amanda Mahendra 👋
+<div align="center">
+  <img src="header profile github.jpg" alt="Header Banner" width="100%" />
+</div>
 
 I am a web developer who loves designing websites that are not only visually appealing but also driven by various user needs. I am capable of building websites for various devices, from desktop to mobile. I enjoy helping to solve problems and delivering solutions for a project.
 
