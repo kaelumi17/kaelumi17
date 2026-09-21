@@ -1,16 +1,21 @@
 <div align="center">
   <img src="header profile github.jpg" alt="Header Banner" width="100%" />
 </div>
+<div align="center">
+<h3>📝 Crafting responsive websites from desktop to mobile. Driven by problem-solving and delivering real solutions.</h2>
+</div>
 
-I am a web developer who loves designing websites that are not only visually appealing but also driven by various user needs. I am capable of building websites for various devices, from desktop to mobile. I enjoy helping to solve problems and delivering solutions for a project.
+---
 
-My main technologies for UI/UX design are Figma, enhanced by Photoshop. I love JavaScript and currently use it as my primary programming language.
+### About Me
 
-- 🔭 &nbsp; I am currently studying as a student at Universitas Teuku Umar.  
-- 🌱 &nbsp; I am also currently participating in a 6-month intensive training in a leading program in Indonesia, Asah led by Dicoding supported by GoTo, on the AI Full-Stack Developer learning path.
-- 🤝 &nbsp; I enjoy communicating with anyone and am open to collaboration, so please don't hesitate to reach out to me.  
-- 📫 &nbsp; How to reach me: mahendraamanda0@gmail.com
-- ☕ &nbsp; Fun fact: Powered by caffeine
+🎓 Information Technology student at Universitas Teuku Umar. <br>
+🌱 AI Full-Stack Developer Cohort at Asah led by Dicoding <br>
+📍 Based in Aceh, Indonesia. <br>
+🤝 Open to communication and collaboration. <br>
+📫 Reach me at: mahendraamanda0@gmail.com<br>
+
+---
 
 ### Tech Stack & Tools
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
