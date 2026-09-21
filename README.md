@@ -9,11 +9,11 @@
 
 ### 📄 About Me
 
-- 🎓 &nbsp; **Education:** Information Technology student at Universitas Teuku Umar.
-- 🏢 &nbsp; **Training:** AI Full-Stack Developer Cohort at Asah led by Dicoding.
-- 📍 &nbsp; **Location:** Based in Aceh, Indonesia.
-- 🤝 &nbsp; **Status:** Open to communication and collaboration.
-- 📨 &nbsp; **Contact:** Reach me at: **mahendraamanda0@gmail.com**
+- 🎓 &nbsp; Information Technology student at Universitas Teuku Umar.
+- 🏢 &nbsp; AI Full-Stack Developer Cohort at Asah led by Dicoding.
+- 📍 &nbsp; Based in Aceh, Indonesia.
+- 🤝 &nbsp; Open to communication and collaboration.
+- 📨 &nbsp; Reach me at: **mahendraamanda0@gmail.com**
 
 ---
 
