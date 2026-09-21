@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="header profile github.jpg" alt="Header Banner" width="100%" />
+  <img src="assets/header profile github.jpg" alt="Header Banner" width="100%" />
 </div>
 <div align="center">
 <h3>📝 Crafting responsive websites from desktop to mobile. Driven by problem-solving and delivering real solutions.</h2>
