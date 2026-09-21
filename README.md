@@ -7,17 +7,19 @@
 
 ---
 
-### About Me
+### 📄 About Me
 
-- 🎓 Information Technology student at Universitas Teuku Umar. <br>
-- 🏢 AI Full-Stack Developer Cohort at Asah led by Dicoding <br>
-- 📍 Based in Aceh, Indonesia. <br>
-- 🤝 Open to communication and collaboration. <br>
-- 📨 Reach me at: mahendraamanda0@gmail.com<br>
+| | |
+| :---: | :--- |
+| 🎓 | Information Technology student at Universitas Teuku Umar. |
+| 🏢 | AI Full-Stack Developer Cohort at Asah led by Dicoding. |
+| 📍 | Based in Aceh, Indonesia. |
+| 🤝 | Open to communication and collaboration. |
+| 📨 | Reach me at: **mahendraamanda0@gmail.com** |
 
 ---
 
-<h3 align="center">Tech Stack & Tools ⚒️</h3><br>
+<h3 align="center">Tech Stack & Tools </h3><br>
 
 <p align="center">
   <img src="assets/figma.png" alt="figma" width="55" /> &nbsp;&nbsp;&nbsp;
