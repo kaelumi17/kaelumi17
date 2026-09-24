@@ -2,7 +2,7 @@
   <img width="1920" height="600" alt="Image" src="https://github.com/user-attachments/assets/a020b680-9f11-4dbf-955a-bf0fc3e76559" />
 </div>
 <div align="center">
-<h3>📝 Driven by problem-solving and delivering real solutions.</h2>
+<h3>📝 Crafting responsive websites from desktop to mobile. Driven by problem-solving and delivering real solutions.</h2>
 </div>
 
 ---
