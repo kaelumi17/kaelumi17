@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header profile github.jpg" alt="Header Banner" width="100%" />
+  <img width="1920" height="600" alt="Image" src="https://github.com/user-attachments/assets/a020b680-9f11-4dbf-955a-bf0fc3e76559" />
 </div>
 <div align="center">
 <h3>📝 Driven by problem-solving and delivering real solutions.</h2>
@@ -20,15 +20,15 @@
 <h3 align="center">Tech Stack & Tools </h3><br>
 
 <p align="center">
-  <img src="assets/figma.png" alt="figma" width="55" /> &nbsp;&nbsp;&nbsp;
-  <img src="assets/photoshop.png" alt="photoshop" width="55" /> &nbsp;&nbsp;&nbsp;
-  <img src="assets/html.png" alt="html" width="55" /> &nbsp;&nbsp;&nbsp;
-  <img src="assets/css.png" alt="css" width="55" /> &nbsp;&nbsp;&nbsp;
-  <img src="assets/javascript.png" alt="javascript" width="55" /> &nbsp;&nbsp;&nbsp;
-  <img src="assets/typescript.png" alt="typescript" width="55" /> &nbsp;&nbsp;&nbsp;
-  <img src="assets/react.png" alt="react" width="55" /> &nbsp;&nbsp;&nbsp;
-  <img src="assets/nodejs.png" alt="nodejs" width="55" /> &nbsp;&nbsp;&nbsp;
-  <img src="assets/git.png" alt="git" width="55" />
+  <img width="55" alt="Image" src="https://github.com/user-attachments/assets/b128ef82-02df-40ac-90a5-4aa8a73d5b9c" /> &nbsp;&nbsp;&nbsp;
+  <img width="55" alt="Image" src="https://github.com/user-attachments/assets/ac7ea594-5ad5-46dc-bb21-e083cc9558e5" /> &nbsp;&nbsp;&nbsp;
+  <img width="55" alt="Image" src="https://github.com/user-attachments/assets/1efca708-fbae-462a-aada-da445289da16" /> &nbsp;&nbsp;&nbsp;
+  <img width="55" alt="Image" src="https://github.com/user-attachments/assets/83d34744-5aef-4690-a80f-7e9846359a50" /> &nbsp;&nbsp;&nbsp;
+  <img width="55" alt="Image" src="https://github.com/user-attachments/assets/6cd1cc28-8be2-424b-967f-1b2f554c7303" /> &nbsp;&nbsp;&nbsp;
+  <img width="55" alt="Image" src="https://github.com/user-attachments/assets/91615311-ec7a-4859-9c0d-840f12b98510" /> &nbsp;&nbsp;&nbsp;
+  <img width="55" alt="Image" src="https://github.com/user-attachments/assets/1cad48e6-38d1-4764-af41-f398e9023edd" /> &nbsp;&nbsp;&nbsp;
+  <img width="55" alt="Image" src="https://github.com/user-attachments/assets/d2055487-db20-4841-a100-3ef2cfd45431" /> &nbsp;&nbsp;&nbsp;
+  <img width="55" alt="Image" src="https://github.com/user-attachments/assets/850f74f2-76ab-4a47-ae48-51f6a9e5753b" /> &nbsp;&nbsp;&nbsp;
 </p>
 
 ---
